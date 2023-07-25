@@ -1,7 +1,7 @@
 
 # Living Room 3D Model
 
-![Living Room](living_room_render.jpg)
+![Living Room](living_room.png)
 
 This repository contains a 3D model of a living room created using Blender. The purpose of this project was to design a realistic living room environment with attention to detail and aesthetics.
 
